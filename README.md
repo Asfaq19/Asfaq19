@@ -14,11 +14,7 @@
 <a href="https://www.java.com" target="_blank"> <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></a>
 <a href="https://www.android.com" target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" /></a>
-
 <a href="https://www.php.net/" target="_blank"><img height="28" src="https://user-images.githubusercontent.com/50937444/149637358-7a2e0688-aeb5-41ab-981e-d8caf60c0448.PNG" alt="php" /></a>
-
-
-
 <a href="https://www.mysql.com" target="_blank"> <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" /></a>
 <a href="https://git-scm.com" target="_blank"> <img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></a>
 <a href="https://www.postman.com" target="_blank"> <img height="28" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></a>
