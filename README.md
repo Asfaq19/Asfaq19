@@ -21,11 +21,11 @@
 <a href="https://www.linux.org" target="_blank"> <img height="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>
 
 ### Connect
-[![Github: zakaria5729](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&color=white&logoColor=black)](https://github.com/Asfaq19)
-[![Twitter: zakaria5729](https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&color=white)](https://twitter.com/Asfaq19)
-[![Stackoverflow: zakaria5729](https://img.shields.io/badge/-Stackoverflow-white?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/8641776)
-[![Linkedin: zakaria5729](https://img.shields.io/badge/-Linkedin-white?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/Asfaq19)
-[![Medium: zakaria5729](https://img.shields.io/badge/-Medium-white?style=flat&logo=medium&logoColor=maroon)](https://medium.com/@Asfaq19)
+[![Github: asfaq19](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&color=white&logoColor=black)](https://github.com/Asfaq19)
+[![Twitter: asfaq](https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&color=white)](https://twitter.com/Asfaq19)
+[![Stackoverflow: asfaq](https://img.shields.io/badge/-Stackoverflow-white?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/8641776)
+[![Linkedin: asfaq](https://img.shields.io/badge/-Linkedin-white?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/Asfaq19)
+[![Medium: asfaq](https://img.shields.io/badge/-Medium-white?style=flat&logo=medium&logoColor=maroon)](https://medium.com/@Asfaq19)
 
 ### Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asfaq19&show_icons=true&locale=en" alt="zakaria5729" /></p>
